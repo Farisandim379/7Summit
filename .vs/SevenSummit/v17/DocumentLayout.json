@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\# CoolYeahh\\SMT 3\\Pemrograman lanjut\\Final Project\\SevenSummit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A258400-7BB2-4F35-9A59-CD72E7F2FBC0}|SevenSummit\\SevenSummit.csproj|d:\\# coolyeahh\\smt 3\\pemrograman lanjut\\final project\\sevensummit\\sevensummit\\view\\login page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A258400-7BB2-4F35-9A59-CD72E7F2FBC0}|SevenSummit\\SevenSummit.csproj|solutionrelative:sevensummit\\view\\login page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A258400-7BB2-4F35-9A59-CD72E7F2FBC0}|SevenSummit\\SevenSummit.csproj|d:\\# coolyeahh\\smt 3\\pemrograman lanjut\\final project\\sevensummit\\sevensummit\\model\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A258400-7BB2-4F35-9A59-CD72E7F2FBC0}|SevenSummit\\SevenSummit.csproj|solutionrelative:sevensummit\\model\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A258400-7BB2-4F35-9A59-CD72E7F2FBC0}|SevenSummit\\SevenSummit.csproj|D:\\# CoolYeahh\\SMT 3\\Pemrograman lanjut\\Final Project\\SevenSummit\\sevensummit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A258400-7BB2-4F35-9A59-CD72E7F2FBC0}|SevenSummit\\SevenSummit.csproj|solutionrelative:sevensummit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A258400-7BB2-4F35-9A59-CD72E7F2FBC0}|SevenSummit\\SevenSummit.csproj|D:\\# CoolYeahh\\SMT 3\\Pemrograman lanjut\\Final Project\\SevenSummit\\sevensummit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A258400-7BB2-4F35-9A59-CD72E7F2FBC0}|SevenSummit\\SevenSummit.csproj|solutionrelative:sevensummit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A258400-7BB2-4F35-9A59-CD72E7F2FBC0}|SevenSummit\\SevenSummit.csproj|D:\\# CoolYeahh\\SMT 3\\Pemrograman lanjut\\Final Project\\SevenSummit\\sevensummit\\splash screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A258400-7BB2-4F35-9A59-CD72E7F2FBC0}|SevenSummit\\SevenSummit.csproj|solutionrelative:sevensummit\\splash screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A258400-7BB2-4F35-9A59-CD72E7F2FBC0}|SevenSummit\\SevenSummit.csproj|D:\\# CoolYeahh\\SMT 3\\Pemrograman lanjut\\Final Project\\SevenSummit\\sevensummit\\splash screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A258400-7BB2-4F35-9A59-CD72E7F2FBC0}|SevenSummit\\SevenSummit.csproj|solutionrelative:sevensummit\\splash screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A258400-7BB2-4F35-9A59-CD72E7F2FBC0}|SevenSummit\\SevenSummit.csproj|D:\\# CoolYeahh\\SMT 3\\Pemrograman lanjut\\Final Project\\SevenSummit\\sevensummit\\model\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A258400-7BB2-4F35-9A59-CD72E7F2FBC0}|SevenSummit\\SevenSummit.csproj|solutionrelative:sevensummit\\model\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A258400-7BB2-4F35-9A59-CD72E7F2FBC0}|SevenSummit\\SevenSummit.csproj|D:\\# CoolYeahh\\SMT 3\\Pemrograman lanjut\\Final Project\\SevenSummit\\sevensummit\\model\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A258400-7BB2-4F35-9A59-CD72E7F2FBC0}|SevenSummit\\SevenSummit.csproj|solutionrelative:sevensummit\\model\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A258400-7BB2-4F35-9A59-CD72E7F2FBC0}|SevenSummit\\SevenSummit.csproj|D:\\# CoolYeahh\\SMT 3\\Pemrograman lanjut\\Final Project\\SevenSummit\\sevensummit\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A258400-7BB2-4F35-9A59-CD72E7F2FBC0}|SevenSummit\\SevenSummit.csproj|solutionrelative:sevensummit\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login page.cs [Design]",
+              "DocumentMoniker": "D:\\# CoolYeahh\\SMT 3\\Pemrograman lanjut\\Final Project\\SevenSummit\\SevenSummit\\View\\login page.cs",
+              "RelativeDocumentMoniker": "SevenSummit\\View\\login page.cs",
+              "ToolTip": "D:\\# CoolYeahh\\SMT 3\\Pemrograman lanjut\\Final Project\\SevenSummit\\SevenSummit\\View\\login page.cs [Design]",
+              "RelativeToolTip": "SevenSummit\\View\\login page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T04:02:54.121Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "splash screen.cs",
+              "DocumentMoniker": "D:\\# CoolYeahh\\SMT 3\\Pemrograman lanjut\\Final Project\\SevenSummit\\SevenSummit\\splash screen.cs",
+              "RelativeDocumentMoniker": "SevenSummit\\splash screen.cs",
+              "ToolTip": "D:\\# CoolYeahh\\SMT 3\\Pemrograman lanjut\\Final Project\\SevenSummit\\SevenSummit\\splash screen.cs",
+              "RelativeToolTip": "SevenSummit\\splash screen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T12:52:12.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "splash screen.cs [Design]",
+              "DocumentMoniker": "D:\\# CoolYeahh\\SMT 3\\Pemrograman lanjut\\Final Project\\SevenSummit\\SevenSummit\\splash screen.cs",
+              "RelativeDocumentMoniker": "SevenSummit\\splash screen.cs",
+              "ToolTip": "D:\\# CoolYeahh\\SMT 3\\Pemrograman lanjut\\Final Project\\SevenSummit\\SevenSummit\\splash screen.cs [Design]",
+              "RelativeToolTip": "SevenSummit\\splash screen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T12:44:12.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\# CoolYeahh\\SMT 3\\Pemrograman lanjut\\Final Project\\SevenSummit\\SevenSummit\\Program.cs",
+              "RelativeDocumentMoniker": "SevenSummit\\Program.cs",
+              "ToolTip": "D:\\# CoolYeahh\\SMT 3\\Pemrograman lanjut\\Final Project\\SevenSummit\\SevenSummit\\Program.cs",
+              "RelativeToolTip": "SevenSummit\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T11:44:26.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\# CoolYeahh\\SMT 3\\Pemrograman lanjut\\Final Project\\SevenSummit\\SevenSummit\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "SevenSummit\\Controller\\UserController.cs",
+              "ToolTip": "D:\\# CoolYeahh\\SMT 3\\Pemrograman lanjut\\Final Project\\SevenSummit\\SevenSummit\\Controller\\UserController.cs",
+              "RelativeToolTip": "SevenSummit\\Controller\\UserController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:33:12.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\# CoolYeahh\\SMT 3\\Pemrograman lanjut\\Final Project\\SevenSummit\\SevenSummit\\Model\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "SevenSummit\\Model\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\# CoolYeahh\\SMT 3\\Pemrograman lanjut\\Final Project\\SevenSummit\\SevenSummit\\Model\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "SevenSummit\\Model\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwFgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:58:55.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\# CoolYeahh\\SMT 3\\Pemrograman lanjut\\Final Project\\SevenSummit\\SevenSummit\\Model\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "SevenSummit\\Model\\Entity\\User.cs",
+              "ToolTip": "D:\\# CoolYeahh\\SMT 3\\Pemrograman lanjut\\Final Project\\SevenSummit\\SevenSummit\\Model\\Entity\\User.cs",
+              "RelativeToolTip": "SevenSummit\\Model\\Entity\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:53:29.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "D:\\# CoolYeahh\\SMT 3\\Pemrograman lanjut\\Final Project\\SevenSummit\\SevenSummit\\Model\\Context\\DbContext.cs",
+              "RelativeDocumentMoniker": "SevenSummit\\Model\\Context\\DbContext.cs",
+              "ToolTip": "D:\\# CoolYeahh\\SMT 3\\Pemrograman lanjut\\Final Project\\SevenSummit\\SevenSummit\\Model\\Context\\DbContext.cs",
+              "RelativeToolTip": "SevenSummit\\Model\\Context\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:39:56.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\# CoolYeahh\\SMT 3\\Pemrograman lanjut\\Final Project\\SevenSummit\\SevenSummit\\Form1.cs",
+              "RelativeDocumentMoniker": "SevenSummit\\Form1.cs",
+              "ToolTip": "D:\\# CoolYeahh\\SMT 3\\Pemrograman lanjut\\Final Project\\SevenSummit\\SevenSummit\\Form1.cs [Design]",
+              "RelativeToolTip": "SevenSummit\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:25:23.807Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
